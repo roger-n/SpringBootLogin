@@ -66,8 +66,8 @@
           <file leaf-file-name="Example.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/rogern/Example.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="102">
-                  <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+                <state relative-caret-position="136">
+                  <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -129,7 +129,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="212" />
     <option name="y" value="-18" />
     <option name="width" value="1934" />
@@ -485,8 +485,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/rogern/Example.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        <state relative-caret-position="136">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
